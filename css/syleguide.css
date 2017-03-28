@@ -11,20 +11,11 @@ body {
   width: 100vw;
   height: 100vh;
   overflow: hidden;
-  background-size: cover;
+  margin: 0;
 
-  color: rgba(232,234,246 ,1);
 }
 
-.intro {
-  width: 90vw;
 
-  padding: 1rem;
-  margin-top: 1rem;
-
-  background: rgba(41,182,246 ,1);
-  color: rgba(1,87,155 ,1);
-}
 
 .row_1{
   margin-top: 30px;
@@ -71,4 +62,9 @@ h1,.title{
 
 .title{
 font-size: 15px;
+}
+
+
+.h2{
+	testtesttest
 }
