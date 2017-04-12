@@ -1,5 +1,6 @@
 * {
   box-sizing: border-box;
+
 }
 
 html, body {
@@ -15,6 +16,44 @@ body {
 
 }
 
+
+::selection {
+  background: #F4AD77; /* WebKit/Blink Browsers */
+}
+
+::-moz-selection {
+  background: #F4AD77; /* Gecko Browsers */
+}
+
+
+.navigation:link {
+  text-decoration: none;
+  color: black;
+}
+
+/* visited link */
+.navigation:visited {
+  color: black;
+
+}
+
+.navigation:hover,
+.doorverwijs:hover,
+.solicitatie:hover {
+  color: #F4AD77;
+  font-weight: bold;
+}
+
+
+/* selected link */
+.navigation:active {
+  color: black;
+}
+
+/*selected with tabs*/
+.navigation:focus {
+  color: black;
+}
 
 
 .row_1{
@@ -48,23 +87,39 @@ color: black;
 a{
   color: black;
 }
+.color{
+  height: 60px;
+  font-size: 12px;
+  line-height: 14px;
+  width: 200px;
+  
+ 
+}
+.color1{
+  background-color: #F4AD77;
+}
+.color2{
+  background-color: black;
+  color: white;
+}
 
-h1{
-  text-align: center;
+.circle {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
   font-size: 30px;
+  color: white;
+  line-height: 100px;
+  text-align: center;
+  background: #F4AD77;
+  border: none;
+}
+button:active{
+border: none;
+ background: #F4AD62;
 }
 
-h1,.title{
-  color: black;
-  font-family: helvetica;
-  font-weight: bold;
-}
+.pic{
+height: 100px;
+width: 100px;}
 
-.title{
-font-size: 15px;
-}
-
-
-.h2{
-	testtesttest
-}
