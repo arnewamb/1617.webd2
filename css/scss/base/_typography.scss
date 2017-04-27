@@ -1,0 +1,74 @@
+$orange: #F4AD77;
+$grey: #EDEDED;
+body {
+  font-family: 'helvetica', sans-serif;
+  font-size: 16px;
+  font-weight: 300;
+  font-style: normal;
+  line-height: 1.42;
+}
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'helvetica', sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  font-style: normal;
+  line-height: 1.42;
+}
+h1 { //title
+  font-size: 32px;
+  margin: 0.67em 0;
+}
+h2{ //undertitle
+  font-size: 20px;
+  font-weight: bold;
+  margin-top: 60px;
+}
+h3{ //important text
+font-size: 16px;
+font-weight: bold;
+}
+
+p {
+  font-family: helvetica;
+  font-size: 1em;
+}
+.navigation{
+  font-size: 15px;
+  font-weight: normal;
+}
+.hover{
+  font-size: 15px;
+  font-weight: bold;
+  color: $orange;
+}
+li {
+  font-family: helvetica;
+  padding-top: 20px;
+}
+.bold {
+  font-weight: bold;
+}
+.underline_title {
+  border-bottom: 1px solid $orange;
+  padding-right: 30px;
+}
+
+
+  .h1 {
+    font-size: 4em;
+    font-family: helvetica;
+    font-weight: bold;
+    line-height: 60px;
+    color: white;
+    text-align: left;
+    margin: 0px;
+    position: absolute;
+    margin-top: 50%;
+  }
+  .name_bubble {
+    margin-left: 10%;
+  }
+
+
+
+

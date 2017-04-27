@@ -1,0 +1,17 @@
+.navigation {
+  &:link {
+    text-decoration: none;
+    color: black;
+  }
+  &:visited {
+    color: black;
+  }
+  &:hover {
+    color: #F4AD77;
+    font-weight: bold;
+  }
+
+  &:active, &:focus {
+    color: black;
+  }
+}
