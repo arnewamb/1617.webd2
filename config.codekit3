@@ -858,14 +858,6 @@
 		"oAP": "\/sites\/bubble\/assets\/icons\/favicon.ico",
 		"oF": 0
 		},
-	"\/sites\/bubble\/assets\/icons\/manifest.json": {
-		"ft": 524288,
-		"oA": 1,
-		"oAP": "\/sites\/bubble\/assets\/icons\/manifest-min.json",
-		"oF": 0,
-		"oO": 0,
-		"oS": 1
-		},
 	"\/sites\/bubble\/assets\/icons\/mstile-150x150.png": {
 		"ft": 32768,
 		"iS": 2825,
@@ -894,6 +886,16 @@
 		"oAP": "\/sites\/bubble\/assets\/images\/bubble.gif",
 		"oF": 0,
 		"opt": 0
+		},
+	"\/sites\/bubble\/assets\/images\/bubble.jpg": {
+		"ft": 16384,
+		"iS": 591024,
+		"oA": 0,
+		"oAP": "\/sites\/bubble\/assets\/images\/bubble.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/sites\/bubble\/assets\/images\/bubble.png": {
 		"ft": 32768,
@@ -955,6 +957,17 @@
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
+		},
+	"\/sites\/bubble\/assets\/images\/hannes.png": {
+		"ft": 32768,
+		"iS": 40922,
+		"oA": 0,
+		"oAP": "\/sites\/bubble\/assets\/images\/hannes.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/sites\/bubble\/assets\/images\/icons\/css\/material-design-iconic-font.css": {
 		"aP": 1,
@@ -1024,6 +1037,28 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
+		"q": 100
+		},
+	"\/sites\/bubble\/assets\/images\/manon.png": {
+		"ft": 32768,
+		"iS": 55548,
+		"oA": 0,
+		"oAP": "\/sites\/bubble\/assets\/images\/manon.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/sites\/bubble\/assets\/images\/me.png": {
+		"ft": 32768,
+		"iS": 45853,
+		"oA": 0,
+		"oAP": "\/sites\/bubble\/assets\/images\/me.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/sites\/bubble\/assets\/images\/original_photo's\/bram.jpg": {
@@ -1224,6 +1259,12 @@
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
+		},
+	"\/sites\/bubble\/contact.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/sites\/bubble\/contact.html",
+		"oF": 0
 		},
 	"\/sites\/bubble\/css\/main.css": {
 		"aP": 1,
@@ -1554,10 +1595,34 @@
 		"oAP": "\/sites\/bubble\/css\/scss\/vendors\/fonts\/Material-Design-Iconic-Font.woff2",
 		"oF": 0
 		},
+	"\/sites\/bubble\/detailpage.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/sites\/bubble\/detailpage.html",
+		"oF": 0
+		},
+	"\/sites\/bubble\/diensten.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/sites\/bubble\/diensten.html",
+		"oF": 0
+		},
 	"\/sites\/bubble\/fonts\/Material-Design-Iconic-Font.woff2": {
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/sites\/bubble\/fonts\/Material-Design-Iconic-Font.woff2",
+		"oF": 0
+		},
+	"\/sites\/bubble\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/sites\/bubble\/index.html",
+		"oF": 0
+		},
+	"\/sites\/bubble\/jobs.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/sites\/bubble\/jobs.html",
 		"oF": 0
 		},
 	"\/sites\/bubble\/js\/headroom-min.js": {
@@ -1636,6 +1701,12 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/sites\/bubble\/LICENSE",
+		"oF": 0
+		},
+	"\/sites\/bubble\/portfolio.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/sites\/bubble\/portfolio.html",
 		"oF": 0
 		},
 	"\/sites\/bubble\/README.md": {
