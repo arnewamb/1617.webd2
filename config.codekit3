@@ -176,6 +176,16 @@
 		"plM": 3758088159,
 		"prP": 0
 		},
+	"\/assets\/images\/coding.jpg": {
+		"ft": 16384,
+		"iS": 1773421,
+		"oA": 0,
+		"oAP": "\/assets\/images\/coding.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/assets\/images\/design_icon.svg": {
 		"ft": 2097152,
 		"miP": 0,
@@ -511,6 +521,16 @@
 		"ma": 0,
 		"oA": 0,
 		"oAP": "\/css\/main-min.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/css\/projectpage.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/css\/projectpage-min.css",
 		"oF": 0,
 		"oS": 0
 		},
