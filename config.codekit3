@@ -1145,16 +1145,6 @@
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"\/sites\/bubble\/assets\/images\/portfolio\/epub.jpg": {
-		"ft": 16384,
-		"iS": 242102,
-		"oA": 0,
-		"oAP": "\/sites\/bubble\/assets\/images\/portfolio\/epub.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
 	"\/sites\/bubble\/assets\/images\/portfolio\/fest.jpg": {
 		"ft": 16384,
 		"iS": 815440,
@@ -1170,16 +1160,6 @@
 		"oA": 2,
 		"oAP": "\/sites\/bubble\/assets\/images\/portfolio\/kerst mockup 2.psd",
 		"oF": 0
-		},
-	"\/sites\/bubble\/assets\/images\/portfolio\/kerst.jpg": {
-		"ft": 16384,
-		"iS": 307456,
-		"oA": 0,
-		"oAP": "\/sites\/bubble\/assets\/images\/portfolio\/kerst.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
 		},
 	"\/sites\/bubble\/assets\/images\/portfolio\/mockup epub.psd": {
 		"ft": 8192,
@@ -1197,31 +1177,11 @@
 		"opt": 0,
 		"q": 100
 		},
-	"\/sites\/bubble\/assets\/images\/portfolio\/mountainpub.jpg": {
-		"ft": 16384,
-		"iS": 1576495,
-		"oA": 0,
-		"oAP": "\/sites\/bubble\/assets\/images\/portfolio\/mountainpub.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
 	"\/sites\/bubble\/assets\/images\/portfolio\/penguinOnSaturn.jpg": {
 		"ft": 16384,
 		"iS": 34657,
 		"oA": 0,
 		"oAP": "\/sites\/bubble\/assets\/images\/portfolio\/penguinOnSaturn.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/sites\/bubble\/assets\/images\/portfolio\/shimmy_head.jpg": {
-		"ft": 16384,
-		"iS": 690240,
-		"oA": 0,
-		"oAP": "\/sites\/bubble\/assets\/images\/portfolio\/shimmy_head.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -1238,16 +1198,6 @@
 		"iS": 554729,
 		"oA": 0,
 		"oAP": "\/sites\/bubble\/assets\/images\/portfolio\/starsky.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/sites\/bubble\/assets\/images\/portfolio\/waelkens_stage.jpg": {
-		"ft": 16384,
-		"iS": 228751,
-		"oA": 0,
-		"oAP": "\/sites\/bubble\/assets\/images\/portfolio\/waelkens_stage.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
