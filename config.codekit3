@@ -1258,12 +1258,6 @@
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"\/sites\/bubble\/contact.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/sites\/bubble\/contact.html",
-		"oF": 0
-		},
 	"\/sites\/bubble\/css\/main.css": {
 		"aP": 1,
 		"bl": 0,
@@ -1593,34 +1587,10 @@
 		"oAP": "\/sites\/bubble\/css\/scss\/vendors\/fonts\/Material-Design-Iconic-Font.woff2",
 		"oF": 0
 		},
-	"\/sites\/bubble\/detailpage.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/sites\/bubble\/detailpage.html",
-		"oF": 0
-		},
-	"\/sites\/bubble\/diensten.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/sites\/bubble\/diensten.html",
-		"oF": 0
-		},
 	"\/sites\/bubble\/fonts\/Material-Design-Iconic-Font.woff2": {
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/sites\/bubble\/fonts\/Material-Design-Iconic-Font.woff2",
-		"oF": 0
-		},
-	"\/sites\/bubble\/index.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/sites\/bubble\/index.html",
-		"oF": 0
-		},
-	"\/sites\/bubble\/jobs.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/sites\/bubble\/jobs.html",
 		"oF": 0
 		},
 	"\/sites\/bubble\/js\/headroom-min.js": {
@@ -1699,12 +1669,6 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/sites\/bubble\/LICENSE",
-		"oF": 0
-		},
-	"\/sites\/bubble\/portfolio.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/sites\/bubble\/portfolio.html",
 		"oF": 0
 		},
 	"\/sites\/bubble\/README.md": {
