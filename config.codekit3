@@ -791,6 +791,12 @@
 		"oAP": "\/sitemap.xml",
 		"oF": 0
 		},
+	"\/sites\/bubble\/.htaccess": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/sites\/bubble\/.htaccess",
+		"oF": 0
+		},
 	"\/sites\/bubble\/assets\/icons\/android-chrome-192x192.png": {
 		"ft": 32768,
 		"iS": 9668,
@@ -857,6 +863,14 @@
 		"oA": 2,
 		"oAP": "\/sites\/bubble\/assets\/icons\/favicon.ico",
 		"oF": 0
+		},
+	"\/sites\/bubble\/assets\/icons\/manifest.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/sites\/bubble\/assets\/icons\/manifest-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
 		},
 	"\/sites\/bubble\/assets\/icons\/mstile-150x150.png": {
 		"ft": 32768,

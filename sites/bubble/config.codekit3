@@ -9,6 +9,12 @@
 	],
 "creatorBuild": "25813",
 "files": {
+	"\/.htaccess": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/.htaccess",
+		"oF": 0
+		},
 	"\/assets\/icons\/android-chrome-192x192.png": {
 		"ft": 32768,
 		"iS": 9668,
@@ -113,6 +119,16 @@
 		"oF": 0,
 		"opt": 1
 		},
+	"\/assets\/images\/bubble.jpg": {
+		"ft": 16384,
+		"iS": 591024,
+		"oA": 0,
+		"oAP": "\/assets\/images\/bubble.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/assets\/images\/bubble.png": {
 		"ft": 32768,
 		"iS": 7317,
@@ -176,12 +192,12 @@
 		},
 	"\/assets\/images\/hannes.png": {
 		"ft": 32768,
-		"iS": 8111168,
+		"iS": 40922,
 		"oA": 0,
 		"oAP": "\/assets\/images\/hannes.png",
 		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
+		"oIPL": 0,
+		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
@@ -257,23 +273,23 @@
 		},
 	"\/assets\/images\/manon.png": {
 		"ft": 32768,
-		"iS": 6218205,
+		"iS": 55548,
 		"oA": 0,
 		"oAP": "\/assets\/images\/manon.png",
 		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
+		"oIPL": 0,
+		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
 	"\/assets\/images\/me.png": {
 		"ft": 32768,
-		"iS": 4333345,
+		"iS": 45853,
 		"oA": 0,
 		"oAP": "\/assets\/images\/me.png",
 		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
+		"oIPL": 0,
+		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
