@@ -1,6 +1,6 @@
 //Caching schema
 <FilesMatch "\.(jpg|png|css|js|svg|gif)$">
-Header set Cache-Control "private, max-age=1800"
+Header set Cache-Control "private, max-age=600"
 </FilesMatch>
 
 //Block bad bots
