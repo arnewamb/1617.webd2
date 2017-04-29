@@ -1,0 +1,61 @@
+.contact {
+	/*google maps card*/
+	#map {
+		width: 100%;
+		height: 350px;
+		background-color: grey;
+	}
+	.sf-grid__maps {
+		overflow: hidden;
+	}
+	/*adress block styling*/
+	.sf-grid__adress {
+		height: 350px;
+	}
+	.sf-grid__input {
+		height: 350px;
+	}
+	.adress_block {
+		position: absolute;
+		bottom: 120px;
+		@include bp(md){
+		margin-left: 30px;
+		bottom: 15px;
+	}
+	}
+	
+	
+	/*contact field*/
+	.inputfield {
+		position: absolute;
+		font-size: 15px;
+		@include bp(md){
+			bottom: 20px;
+		}
+		input {
+			display: inline-block;
+			margin-top: 20px;
+			margin-right: 40px;
+			border: none;
+			border-bottom: solid 1px;
+		}
+		textarea {
+			display: inline-block;
+			margin-top: 20px;
+			margin-right: 40px;
+			border: none;
+			border-bottom: solid 1px;
+		}
+		.shortline {
+			width: 120px;
+		}
+		.longline {
+			width: 281px;
+			height: 60px;
+		}
+		
+	}
+
+}
+
+

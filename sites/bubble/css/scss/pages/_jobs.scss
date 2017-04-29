@@ -1,0 +1,12 @@
+.jobs{
+	.opsomming{
+		padding-left: 30px;
+		margin-bottom: 40px;
+		vertical-align: bottom;
+	}
+	@include bp(lg){
+		.opsomming{
+			height: 400px;
+		}
+	}
+}

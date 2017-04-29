@@ -1,0 +1,78 @@
+
+.navigation{
+	overflow: hidden;
+	::selection {
+	background: $orange;
+	/* WebKit/Blink Browsers */
+	}
+	::-moz-selection {
+	background: $orange;
+	/* Gecko Browsers */
+	}
+a:link {
+	text-decoration: none;
+	color: black;
+}
+
+	a {
+		&:visited,
+		&:focus {
+			color: black;
+			font-weight: normal;
+		}
+		&:hover {
+			color: $orange;
+			font-weight: bold;
+		}
+		&:active {
+			color: $orange;
+			font-weight: normal;
+		}
+	}
+
+.left {
+	float: left;
+	overflow: hidden;
+}
+
+/*logo in navbar*/
+
+.logo {
+	float: left;
+	height: 60px;
+	width: auto;
+	clear: both;
+	margin-top: 30px;
+	margin-left: 20px;
+	position: flex;
+	top: 0px;
+}
+
+/*right side navigation*/
+
+.right {
+	height: 60px;
+	float: right;
+	margin-top: 20px;
+	margin-bottom: 30px;
+	ul {
+		overflow: hidden;
+		margin-top: 30px;
+		margin-bottom: 30px;
+		clear: both;
+		vertical-align: middle;
+		padding-left: 0px;
+	}
+	li {
+		display: inline;
+		padding-right: 40px;
+		padding-bottom: 20px;
+		font: 15px helvetica;
+		margin-bottom: 50px;
+	}
+}
+}
+
+
+
+

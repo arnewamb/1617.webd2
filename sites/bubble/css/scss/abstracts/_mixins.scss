@@ -1,0 +1,63 @@
+// ==== FONTS ====
+
+@import 'fonts';
+
+@mixin helvetica($size: 16px, $weight: 400, $line-height: 1.42){
+  @extend %helvetica;
+  font-weight: $weight;
+  font-size: $size;
+  line-height: $line-height;
+}
+
+// ==== BASIC MIXINS ====
+// Transform 
+@mixin transform ($transforms) {
+  -webkit-transform: $transforms;
+  -moz-transform: $transforms;
+  -ms-transform: $transforms;
+  -o-transform: $transforms;
+  transform: $transforms;
+}
+@mixin transition ($transition) {
+  -webkit-transition: $transition;
+  -moz-transition: $transition;
+  -ms-transition: $transition;
+  -o-transition: $transition;
+  transition: $transition;
+}
+
+// Breakpoints 
+@mixin bp($point){
+  @include breakpoint($point){
+    @content;
+  }
+}
+@mixin breakpoint($point) {
+  @if $point == desktop {
+    @media (min-width: $bp_tablet) { @content ; }
+  }
+  @else if $point == xxlg {
+    @media (min-width: 90rem) { @content ; }
+  }
+  @else if $point == xlg {
+    @media (min-width: 71.25rem) { @content ; }
+  }
+  @else if $point == lg {
+    @media (min-width: 60rem) { @content ; }
+  }
+  @else if $point == md {
+    @media (min-width: 42.5rem) { @content ; }
+  }
+  @else if $point == sm {
+    @media (min-width: 30rem) { @content ; }
+  }
+  @else if $point == xsm {
+    @media (min-width: 20rem) { @content ; }
+  }
+  @else if $point == xxsm {
+    @media (min-width: 0rem) { @content ; }
+  }
+  @else {
+    @media (min-width: $point) { @content ; }
+  }
+}

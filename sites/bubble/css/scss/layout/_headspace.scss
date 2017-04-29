@@ -1,0 +1,19 @@
+.index{
+	.navigation.white{
+		background-color: transparent;
+		color: white;
+		
+	}
+}
+.headroom--pinned{
+	position: fixed;
+	width: 100%;
+	top: 0;
+	left: 0;
+	background-color: white;
+	z-index: 9999;
+	color: black;
+}
+.headroom {
+	transition: 0.5s;
+}

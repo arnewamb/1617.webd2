@@ -1,0 +1,1 @@
+var buttonReset=document.getElementById("reset"),inputField=document.getElementsByClassName("textField");buttonReset.onclick=function(){for(var e,t=0;t<6;t++)e=inputField[t].value="",console.log(e)};
