@@ -956,17 +956,6 @@
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"\/sites\/bubble\/assets\/images\/hannes.png": {
-		"ft": 32768,
-		"iS": 86903,
-		"oA": 0,
-		"oAP": "\/sites\/bubble\/assets\/images\/hannes.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
 	"\/sites\/bubble\/assets\/images\/icons\/css\/material-design-iconic-font.css": {
 		"aP": 1,
 		"bl": 0,
@@ -1035,28 +1024,6 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
-		"q": 100
-		},
-	"\/sites\/bubble\/assets\/images\/manon.png": {
-		"ft": 32768,
-		"iS": 116162,
-		"oA": 0,
-		"oAP": "\/sites\/bubble\/assets\/images\/manon.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/sites\/bubble\/assets\/images\/me.png": {
-		"ft": 32768,
-		"iS": 87763,
-		"oA": 0,
-		"oAP": "\/sites\/bubble\/assets\/images\/me.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
 		"q": 100
 		},
 	"\/sites\/bubble\/assets\/images\/original_photo's\/bram.jpg": {
