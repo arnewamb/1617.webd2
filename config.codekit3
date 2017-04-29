@@ -524,13 +524,43 @@
 		"oF": 0,
 		"oS": 0
 		},
-	"\/css\/projectpage.css": {
+	"\/css\/projectpagecss\/icon1.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/css\/projectpagecss\/icon1-min.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/css\/projectpagecss\/icon2.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/css\/projectpagecss\/icon2-min.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/css\/projectpagecss\/projectpage-min.css": {
 		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/css\/projectpage-min.css",
+		"oAP": "\/css\/projectpagecss\/projectpage-min-min.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/css\/projectpagecss\/projectpage.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/css\/projectpagecss\/projectpage-min.css",
 		"oF": 0,
 		"oS": 0
 		},
