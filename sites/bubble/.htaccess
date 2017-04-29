@@ -2,6 +2,9 @@
 <FilesMatch "\.(jpg|png|css|js|svg|gif)$">
 Header set Cache-Control "private, max-age=600"
 </FilesMatch>
+<FilesMatch "\.(ico|pdf|flv|jpg|jpeg|png|gif|js|css|swf)(\.gz)?$">
+Header set Expires "Thu, 15 Apr 2012 20:00:00 GMT"
+</FilesMatch>
 
 //Block bad bots
 RewriteEngine On 
