@@ -1,0 +1,33 @@
+a:link, 
+a:focus,
+a:visited{
+	color: white;
+	text-decoration: none;
+}
+a:hover{
+	color: #F3AD77;
+	font-weight: bold;
+}
+
+body{
+	background-image: url('../assets/images/coding.jpg');
+	height: 100vh;
+	background-size: cover;
+	overflow: hidden;
+}
+
+h1{
+	font: helvetica 32px;
+}
+h1,p{
+color: white;}
+
+.intro{
+	position: absolute;
+	bottom: 40%;
+	left: 30%;
+}
+
+.socialmedia{
+	font-size: 20px;
+}

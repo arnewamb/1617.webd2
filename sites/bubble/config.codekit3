@@ -9,12 +9,6 @@
 	],
 "creatorBuild": "25813",
 "files": {
-	"\/.htaccess": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/.htaccess",
-		"oF": 0
-		},
 	"\/assets\/icons\/android-chrome-192x192.png": {
 		"ft": 32768,
 		"iS": 9668,
@@ -365,12 +359,12 @@
 		},
 	"\/assets\/images\/portfolio\/epub.jpg": {
 		"ft": 16384,
-		"iS": 265476,
+		"iS": 25965,
 		"oA": 0,
 		"oAP": "\/assets\/images\/portfolio\/epub.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"\/assets\/images\/portfolio\/fest.jpg": {
@@ -391,12 +385,12 @@
 		},
 	"\/assets\/images\/portfolio\/kerst.jpg": {
 		"ft": 16384,
-		"iS": 793602,
+		"iS": 5611,
 		"oA": 0,
 		"oAP": "\/assets\/images\/portfolio\/kerst.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"\/assets\/images\/portfolio\/mockup epub.psd": {
@@ -417,32 +411,32 @@
 		},
 	"\/assets\/images\/portfolio\/mountainpub.jpg": {
 		"ft": 16384,
-		"iS": 1711087,
+		"iS": 7057,
 		"oA": 0,
 		"oAP": "\/assets\/images\/portfolio\/mountainpub.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"\/assets\/images\/portfolio\/penguinOnSaturn.jpg": {
 		"ft": 16384,
-		"iS": 63158,
+		"iS": 4168,
 		"oA": 0,
 		"oAP": "\/assets\/images\/portfolio\/penguinOnSaturn.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"\/assets\/images\/portfolio\/shimmy_head.jpg": {
 		"ft": 16384,
-		"iS": 690240,
+		"iS": 3801,
 		"oA": 0,
 		"oAP": "\/assets\/images\/portfolio\/shimmy_head.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"\/assets\/images\/portfolio\/spirit_triangle.psd": {
@@ -463,12 +457,12 @@
 		},
 	"\/assets\/images\/portfolio\/waelkens_stage.jpg": {
 		"ft": 16384,
-		"iS": 256469,
+		"iS": 57130,
 		"oA": 0,
 		"oAP": "\/assets\/images\/portfolio\/waelkens_stage.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"\/assets\/images\/starbubble.png": {
