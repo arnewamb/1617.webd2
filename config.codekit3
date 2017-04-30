@@ -1284,16 +1284,6 @@
 		"oAP": "\/sites\/bubble\/contact.html",
 		"oF": 0
 		},
-	"\/sites\/bubble\/css\/main.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "\/sites\/bubble\/css\/main-min.css",
-		"oF": 0,
-		"oS": 0
-		},
 	"\/sites\/bubble\/css\/scss\/abstracts\/_fonts.scss": {
 		"aP": 0,
 		"bl": 0,
@@ -1434,16 +1424,6 @@
 		"oS": 0,
 		"uL": 1
 		},
-	"\/sites\/bubble\/css\/scss\/layout\/_grid.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "\/sites\/bubble\/css\/scss\/layout\/_grid-min.css",
-		"oF": 0,
-		"oS": 0
-		},
 	"\/sites\/bubble\/css\/scss\/layout\/_headspace.scss": {
 		"aP": 0,
 		"bl": 0,
@@ -1492,19 +1472,6 @@
 		"ma": 0,
 		"oA": 1,
 		"oAP": "\/sites\/bubble\/css\/scss\/layout\/_rowandgridchanges.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
-	"\/sites\/bubble\/css\/scss\/main.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "\/sites\/bubble\/css\/scss\/main.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1613,12 +1580,6 @@
 		"oAP": "\/sites\/bubble\/css\/scss\/vendors\/fonts\/Material-Design-Iconic-Font.woff2",
 		"oF": 0
 		},
-	"\/sites\/bubble\/detailpage.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/sites\/bubble\/detailpage.html",
-		"oF": 0
-		},
 	"\/sites\/bubble\/diensten.html": {
 		"ft": 8192,
 		"oA": 2,
@@ -1629,18 +1590,6 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/sites\/bubble\/fonts\/Material-Design-Iconic-Font.woff2",
-		"oF": 0
-		},
-	"\/sites\/bubble\/index.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/sites\/bubble\/index.html",
-		"oF": 0
-		},
-	"\/sites\/bubble\/jobs.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/sites\/bubble\/jobs.html",
 		"oF": 0
 		},
 	"\/sites\/bubble\/js\/headroom-min.js": {
@@ -1719,12 +1668,6 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/sites\/bubble\/LICENSE",
-		"oF": 0
-		},
-	"\/sites\/bubble\/portfolio.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/sites\/bubble\/portfolio.html",
 		"oF": 0
 		},
 	"\/sites\/bubble\/README.md": {
