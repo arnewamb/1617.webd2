@@ -807,6 +807,12 @@
 		"oAP": "\/sitemap.xml",
 		"oF": 0
 		},
+	"\/sites\/.htaccess": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/sites\/.htaccess",
+		"oF": 0
+		},
 	"\/sites\/bubble\/.htaccess": {
 		"ft": 8192,
 		"oA": 2,
