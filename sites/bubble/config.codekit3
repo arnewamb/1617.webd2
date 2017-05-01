@@ -486,10 +486,10 @@
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"\/contact.php": {
+	"\/contact.html": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/contact.php",
+		"oAP": "\/contact.html",
 		"oF": 0
 		},
 	"\/css\/main.css": {
@@ -821,17 +821,17 @@
 		"oAP": "\/css\/scss\/vendors\/fonts\/Material-Design-Iconic-Font.woff2",
 		"oF": 0
 		},
-	"\/detailpage.php": {
+	"\/detailpage.html": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/detailpage.php",
+		"oAP": "\/detailpage.html",
 		"oF": 0
 		},
-	"\/diensten.php": {
+	"\/diensten.html": {
 		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/diensten.php",
-		"oF": 1
+		"oA": 2,
+		"oAP": "\/diensten.html",
+		"oF": 0
 		},
 	"\/fonts\/Material-Design-Iconic-Font.woff2": {
 		"ft": 8192,
@@ -839,29 +839,17 @@
 		"oAP": "\/fonts\/Material-Design-Iconic-Font.woff2",
 		"oF": 0
 		},
-	"\/includes\/footer.php": {
+	"\/index.html": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/includes\/footer.php",
+		"oAP": "\/index.html",
 		"oF": 0
 		},
-	"\/includes\/navigation.php": {
+	"\/jobs.html": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/includes\/navigation.php",
+		"oAP": "\/jobs.html",
 		"oF": 0
-		},
-	"\/index.php": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/index.php",
-		"oF": 0
-		},
-	"\/jobs.php": {
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/jobs.php",
-		"oF": 1
 		},
 	"\/js\/headroom-min.js": {
 		"ft": 64,
@@ -941,10 +929,10 @@
 		"oAP": "\/LICENSE",
 		"oF": 0
 		},
-	"\/portfolio.php": {
+	"\/portfolio.html": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/portfolio.php",
+		"oAP": "\/portfolio.html",
 		"oF": 0
 		},
 	"\/README.md": {
@@ -993,7 +981,7 @@
 	},
 "projectAttributes": {
 	"creationDate": 514046351,
-	"displayValue": "phpbubble",
+	"displayValue": "bubble",
 	"displayValueWasSetByUser": 0,
 	"iconImageName": "meme-leo"
 	},
