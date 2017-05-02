@@ -35,18 +35,31 @@ footer {
 		}
 		input{
 			background: $orange;
-			width: 200px;
-			height: 30px;
+			width: 100px;
+			height: 20px;
 			color: white;
 			border: none;
-			border-bottom: solid 1px black;
+			border-bottom: solid 1px white;
+			&::-webkit-input-placeholder { 
+  				color: white;
+			}			
+			&::-moz-placeholder { 
+  				color: white;
+			}
+			&:-ms-input-placeholder { 
+  				color: white;
+			}
+			&:-moz-placeholder { 
+  				color: white;
+			}
 
-			
 		}
+		
 		button{
-			padding-top: 5px;
+			padding: 5px 0;
 			color: white;
 			margin-top: 5px;
+			margin-bottom: 10px;
 			font-size: 13px;
 			background-color: $orange;
 			border: none;
@@ -54,3 +67,4 @@ footer {
 		}
 	}
 }
+

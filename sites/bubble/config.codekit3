@@ -923,6 +923,15 @@
 		"sC": 1,
 		"tS": 0
 		},
+	"\/js\/resetFooter.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/js\/resetFooter-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
 	"\/LICENSE": {
 		"ft": 8192,
 		"oA": 2,

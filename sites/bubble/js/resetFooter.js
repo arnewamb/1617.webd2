@@ -1,16 +1,12 @@
-//copyright Arne Wambeke
-//29 april 2017
 
-
-//For contact form 
-
+// for footer
 //variabelen aanmaken
 var buttonReset = document.getElementById('reset');
 var inputField = document.getElementsByClassName('textField');
 //making new textnode
 var contactForm = document.getElementById('input');
 var node = document.createElement('p');
-var succesNode = document.createTextNode("Your message has been successfully sent");
+var succesNode = document.createTextNode("You'r on our mailing list now!");
 node.appendChild(succesNode);
 
 //function for reset
@@ -24,8 +20,4 @@ contactForm.appendChild(succesNode);
   
   }
 };
-
-
-
-
 
