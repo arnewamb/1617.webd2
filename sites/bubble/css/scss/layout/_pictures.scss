@@ -29,6 +29,9 @@
 						height: 100%;
 						width: auto;
 					}
+					.pichigh{
+						height: 372px;
+					}
 				}
 				/*defines the length of the picture*/
 				.piclow {
@@ -38,10 +41,11 @@
 				}
 				.pichigh {
 					width: 100%;
-					height: 372px;
 					overflow: hidden
 				}
 			}
+			
+
 			.details{
 				img {
 						height: auto;
