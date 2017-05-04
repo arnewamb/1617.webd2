@@ -17,7 +17,7 @@ contactForm.appendChild(succesNode);
   var waarde;
   for (var i = 0; i<6; i++){
   waarde = inputField[i].value = "";
-  
   }
+
 };
 

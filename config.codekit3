@@ -467,6 +467,16 @@
 		"opt": 0,
 		"q": 100
 		},
+	"\/assets\/images\/portfolio\/spirit_triangle.jpg": {
+		"ft": 16384,
+		"iS": 93833,
+		"oA": 0,
+		"oAP": "\/assets\/images\/portfolio\/spirit_triangle.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
 	"\/assets\/images\/portfolio\/spirit_triangle.psd": {
 		"ft": 8192,
 		"oA": 2,
@@ -813,12 +823,6 @@
 		"oAP": "\/sites\/.htaccess",
 		"oF": 0
 		},
-	"\/sites\/bubble\/.htaccess": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/sites\/bubble\/.htaccess",
-		"oF": 0
-		},
 	"\/sites\/bubble\/assets\/icons\/android-chrome-192x192.png": {
 		"ft": 32768,
 		"iS": 9668,
@@ -915,14 +919,6 @@
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"\/sites\/bubble\/assets\/images\/bubble.gif": {
-		"ft": 4194304,
-		"iS": 27798,
-		"oA": 0,
-		"oAP": "\/sites\/bubble\/assets\/images\/bubble.gif",
-		"oF": 0,
-		"opt": 0
-		},
 	"\/sites\/bubble\/assets\/images\/bubble.jpg": {
 		"ft": 16384,
 		"iS": 591024,
@@ -933,32 +929,11 @@
 		"opt": 0,
 		"q": 100
 		},
-	"\/sites\/bubble\/assets\/images\/bubble.png": {
-		"ft": 32768,
-		"iS": 4182,
-		"oA": 0,
-		"oAP": "\/sites\/bubble\/assets\/images\/bubble.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
 	"\/sites\/bubble\/assets\/images\/bubble.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
 		"oAP": "\/sites\/bubble\/assets\/images\/bubble.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
-	"\/sites\/bubble\/assets\/images\/bubble2.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "\/sites\/bubble\/assets\/images\/bubble2.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
@@ -1025,55 +1000,11 @@
 		"oF": 0,
 		"oS": 0
 		},
-	"\/sites\/bubble\/assets\/images\/icons\/fonts\/Material-Design-Iconic-Font.eot": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/sites\/bubble\/assets\/images\/icons\/fonts\/Material-Design-Iconic-Font.eot",
-		"oF": 0
-		},
-	"\/sites\/bubble\/assets\/images\/icons\/fonts\/Material-Design-Iconic-Font.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "\/sites\/bubble\/assets\/images\/icons\/fonts\/Material-Design-Iconic-Font.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
-	"\/sites\/bubble\/assets\/images\/icons\/fonts\/Material-Design-Iconic-Font.ttf": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/sites\/bubble\/assets\/images\/icons\/fonts\/Material-Design-Iconic-Font.ttf",
-		"oF": 0
-		},
-	"\/sites\/bubble\/assets\/images\/icons\/fonts\/Material-Design-Iconic-Font.woff": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/sites\/bubble\/assets\/images\/icons\/fonts\/Material-Design-Iconic-Font.woff",
-		"oF": 0
-		},
-	"\/sites\/bubble\/assets\/images\/icons\/fonts\/Material-Design-Iconic-Font.woff2": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/sites\/bubble\/assets\/images\/icons\/fonts\/Material-Design-Iconic-Font.woff2",
-		"oF": 0
-		},
 	"\/sites\/bubble\/assets\/images\/icons\/logo.ai": {
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/sites\/bubble\/assets\/images\/icons\/logo.ai",
 		"oF": 0
-		},
-	"\/sites\/bubble\/assets\/images\/manon.jpg": {
-		"ft": 16384,
-		"iS": 130289,
-		"oA": 0,
-		"oAP": "\/sites\/bubble\/assets\/images\/manon.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
 		},
 	"\/sites\/bubble\/assets\/images\/manon.png": {
 		"ft": 32768,
@@ -1097,75 +1028,15 @@
 		"oT": 1,
 		"q": 100
 		},
-	"\/sites\/bubble\/assets\/images\/original_photo's\/bram.jpg": {
-		"ft": 16384,
-		"iS": 15728903,
-		"oA": 0,
-		"oAP": "\/sites\/bubble\/assets\/images\/original_photo's\/bram.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/sites\/bubble\/assets\/images\/original_photo's\/manon.jpg": {
-		"ft": 16384,
-		"iS": 130350,
-		"oA": 0,
-		"oAP": "\/sites\/bubble\/assets\/images\/original_photo's\/manon.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/sites\/bubble\/assets\/images\/original_photo's\/me.jpg": {
-		"ft": 16384,
-		"iS": 4104270,
-		"oA": 0,
-		"oAP": "\/sites\/bubble\/assets\/images\/original_photo's\/me.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/sites\/bubble\/assets\/images\/portfolio\/burger_site.jpg": {
-		"ft": 16384,
-		"iS": 57690,
-		"oA": 0,
-		"oAP": "\/sites\/bubble\/assets\/images\/portfolio\/burger_site.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/sites\/bubble\/assets\/images\/portfolio\/double_exposure.jpg": {
+	"\/sites\/bubble\/assets\/images\/portfolio\/doubleex.jpg": {
 		"ft": 16384,
 		"iS": 1030377,
 		"oA": 0,
-		"oAP": "\/sites\/bubble\/assets\/images\/portfolio\/double_exposure.jpg",
+		"oAP": "\/sites\/bubble\/assets\/images\/portfolio\/doubleex.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
-		},
-	"\/sites\/bubble\/assets\/images\/portfolio\/earth.jpg": {
-		"ft": 16384,
-		"iS": 3509,
-		"oA": 0,
-		"oAP": "\/sites\/bubble\/assets\/images\/portfolio\/earth.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/sites\/bubble\/assets\/images\/portfolio\/earth_sun.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "\/sites\/bubble\/assets\/images\/portfolio\/earth_sun.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
 		},
 	"\/sites\/bubble\/assets\/images\/portfolio\/epub.jpg": {
 		"ft": 16384,
@@ -1177,25 +1048,9 @@
 		"opt": 0,
 		"q": 100
 		},
-	"\/sites\/bubble\/assets\/images\/portfolio\/fest.jpg": {
-		"ft": 16384,
-		"iS": 815440,
-		"oA": 0,
-		"oAP": "\/sites\/bubble\/assets\/images\/portfolio\/fest.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/sites\/bubble\/assets\/images\/portfolio\/kerst mockup 2.psd": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/sites\/bubble\/assets\/images\/portfolio\/kerst mockup 2.psd",
-		"oF": 0
-		},
 	"\/sites\/bubble\/assets\/images\/portfolio\/kerst.jpg": {
 		"ft": 16384,
-		"iS": 5611,
+		"iS": 40700,
 		"oA": 0,
 		"oAP": "\/sites\/bubble\/assets\/images\/portfolio\/kerst.jpg",
 		"oF": 0,
@@ -1203,17 +1058,11 @@
 		"opt": 0,
 		"q": 100
 		},
-	"\/sites\/bubble\/assets\/images\/portfolio\/mockup epub.psd": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/sites\/bubble\/assets\/images\/portfolio\/mockup epub.psd",
-		"oF": 0
-		},
-	"\/sites\/bubble\/assets\/images\/portfolio\/mountain wallpaper.jpg": {
+	"\/sites\/bubble\/assets\/images\/portfolio\/kerst_mockup.jpg": {
 		"ft": 16384,
-		"iS": 82377,
+		"iS": 5611,
 		"oA": 0,
-		"oAP": "\/sites\/bubble\/assets\/images\/portfolio\/mountain wallpaper.jpg",
+		"oAP": "\/sites\/bubble\/assets\/images\/portfolio\/kerst_mockup.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -1249,11 +1098,15 @@
 		"opt": 0,
 		"q": 100
 		},
-	"\/sites\/bubble\/assets\/images\/portfolio\/spirit_triangle.psd": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/sites\/bubble\/assets\/images\/portfolio\/spirit_triangle.psd",
-		"oF": 0
+	"\/sites\/bubble\/assets\/images\/portfolio\/spirit_triangle.jpg": {
+		"ft": 16384,
+		"iS": 30898,
+		"oA": 0,
+		"oAP": "\/sites\/bubble\/assets\/images\/portfolio\/spirit_triangle.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/sites\/bubble\/assets\/images\/portfolio\/starsky.jpg": {
 		"ft": 16384,
@@ -1624,6 +1477,34 @@
 		"oAP": "\/sites\/bubble\/css\/scss\/vendors\/_icon2-min.css",
 		"oF": 0,
 		"oS": 0
+		},
+	"\/sites\/bubble\/css\/scss\/vendors\/fonts\/Material-Design-Iconic-Font.eot": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/sites\/bubble\/css\/scss\/vendors\/fonts\/Material-Design-Iconic-Font.eot",
+		"oF": 0
+		},
+	"\/sites\/bubble\/css\/scss\/vendors\/fonts\/Material-Design-Iconic-Font.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/sites\/bubble\/css\/scss\/vendors\/fonts\/Material-Design-Iconic-Font.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/sites\/bubble\/css\/scss\/vendors\/fonts\/Material-Design-Iconic-Font.ttf": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/sites\/bubble\/css\/scss\/vendors\/fonts\/Material-Design-Iconic-Font.ttf",
+		"oF": 0
+		},
+	"\/sites\/bubble\/css\/scss\/vendors\/fonts\/Material-Design-Iconic-Font.woff": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/sites\/bubble\/css\/scss\/vendors\/fonts\/Material-Design-Iconic-Font.woff",
+		"oF": 0
 		},
 	"\/sites\/bubble\/css\/scss\/vendors\/fonts\/Material-Design-Iconic-Font.woff2": {
 		"ft": 8192,
