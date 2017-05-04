@@ -664,40 +664,6 @@
 		"oF": 1,
 		"oS": 0
 		},
-	"\/css\/scss\/vendors\/fonts\/Material-Design-Iconic-Font.eot": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/css\/scss\/vendors\/fonts\/Material-Design-Iconic-Font.eot",
-		"oF": 0
-		},
-	"\/css\/scss\/vendors\/fonts\/Material-Design-Iconic-Font.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "\/css\/scss\/vendors\/fonts\/Material-Design-Iconic-Font.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
-	"\/css\/scss\/vendors\/fonts\/Material-Design-Iconic-Font.ttf": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/css\/scss\/vendors\/fonts\/Material-Design-Iconic-Font.ttf",
-		"oF": 0
-		},
-	"\/css\/scss\/vendors\/fonts\/Material-Design-Iconic-Font.woff": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/css\/scss\/vendors\/fonts\/Material-Design-Iconic-Font.woff",
-		"oF": 0
-		},
-	"\/css\/scss\/vendors\/fonts\/Material-Design-Iconic-Font.woff2": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/css\/scss\/vendors\/fonts\/Material-Design-Iconic-Font.woff2",
-		"oF": 0
-		},
 	"\/detailpage.html": {
 		"ft": 8192,
 		"oA": 2,
@@ -708,6 +674,34 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/diensten.html",
+		"oF": 0
+		},
+	"\/fonts\/Material-Design-Iconic-Font.eot": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/fonts\/Material-Design-Iconic-Font.eot",
+		"oF": 0
+		},
+	"\/fonts\/Material-Design-Iconic-Font.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/fonts\/Material-Design-Iconic-Font.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/fonts\/Material-Design-Iconic-Font.ttf": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/fonts\/Material-Design-Iconic-Font.ttf",
+		"oF": 0
+		},
+	"\/fonts\/Material-Design-Iconic-Font.woff": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/fonts\/Material-Design-Iconic-Font.woff",
 		"oF": 0
 		},
 	"\/fonts\/Material-Design-Iconic-Font.woff2": {
