@@ -32,11 +32,13 @@
 					.pichigh{
 						height: 372px;
 					}
+					.piclow{
+						height: 180px;
+					}
 				}
 				/*defines the length of the picture*/
 				.piclow {
 					width: 100%;
-					height: 180px;
 					overflow: hidden;
 				}
 				.pichigh {
