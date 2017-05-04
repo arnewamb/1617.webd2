@@ -676,6 +676,16 @@
 		"oAP": "\/diensten.html",
 		"oF": 0
 		},
+	"\/fire.jpg": {
+		"ft": 16384,
+		"iS": 3364821,
+		"oA": 0,
+		"oAP": "\/fire.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
 	"\/fonts\/Material-Design-Iconic-Font.eot": {
 		"ft": 8192,
 		"oA": 2,
