@@ -236,7 +236,7 @@
 		},
 	"\/assets\/images\/portfolio\/kerst.jpg": {
 		"ft": 16384,
-		"iS": 793625,
+		"iS": 30258,
 		"oA": 0,
 		"oAP": "\/assets\/images\/portfolio\/kerst.jpg",
 		"oF": 0,
@@ -244,14 +244,14 @@
 		"opt": 1,
 		"q": 100
 		},
-	"\/assets\/images\/portfolio\/kerst_mockup.jpg": {
+	"\/assets\/images\/portfolio\/kerst2.jpg": {
 		"ft": 16384,
-		"iS": 5611,
+		"iS": 30258,
 		"oA": 0,
-		"oAP": "\/assets\/images\/portfolio\/kerst_mockup.jpg",
+		"oAP": "\/assets\/images\/portfolio\/kerst2.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"\/assets\/images\/portfolio\/mountainpub.jpg": {
@@ -266,12 +266,12 @@
 		},
 	"\/assets\/images\/portfolio\/penguinOnSaturn.jpg": {
 		"ft": 16384,
-		"iS": 4168,
+		"iS": 18803,
 		"oA": 0,
 		"oAP": "\/assets\/images\/portfolio\/penguinOnSaturn.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"\/assets\/images\/portfolio\/shimmy_head.jpg": {
@@ -296,12 +296,12 @@
 		},
 	"\/assets\/images\/portfolio\/starsky.jpg": {
 		"ft": 16384,
-		"iS": 582829,
+		"iS": 35778,
 		"oA": 0,
 		"oAP": "\/assets\/images\/portfolio\/starsky.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"\/assets\/images\/portfolio\/waelkens_stage.jpg": {

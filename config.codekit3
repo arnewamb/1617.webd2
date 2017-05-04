@@ -823,12 +823,6 @@
 		"oAP": "\/sites\/.htaccess",
 		"oF": 0
 		},
-	"\/sites\/bubble\/.htaccess": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/sites\/bubble\/.htaccess",
-		"oF": 0
-		},
 	"\/sites\/bubble\/assets\/icons\/android-chrome-192x192.png": {
 		"ft": 32768,
 		"iS": 9668,
@@ -1036,7 +1030,7 @@
 		},
 	"\/sites\/bubble\/assets\/images\/portfolio\/doubleex.jpg": {
 		"ft": 16384,
-		"iS": 1030377,
+		"iS": 45097,
 		"oA": 0,
 		"oAP": "\/sites\/bubble\/assets\/images\/portfolio\/doubleex.jpg",
 		"oF": 0,
@@ -1056,7 +1050,7 @@
 		},
 	"\/sites\/bubble\/assets\/images\/portfolio\/kerst.jpg": {
 		"ft": 16384,
-		"iS": 40700,
+		"iS": 11198,
 		"oA": 0,
 		"oAP": "\/sites\/bubble\/assets\/images\/portfolio\/kerst.jpg",
 		"oF": 0,
@@ -1064,11 +1058,11 @@
 		"opt": 0,
 		"q": 100
 		},
-	"\/sites\/bubble\/assets\/images\/portfolio\/kerst_mockup.jpg": {
+	"\/sites\/bubble\/assets\/images\/portfolio\/kerst2.jpg": {
 		"ft": 16384,
-		"iS": 5611,
+		"iS": 30258,
 		"oA": 0,
-		"oAP": "\/sites\/bubble\/assets\/images\/portfolio\/kerst_mockup.jpg",
+		"oAP": "\/sites\/bubble\/assets\/images\/portfolio\/kerst2.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -1086,7 +1080,7 @@
 		},
 	"\/sites\/bubble\/assets\/images\/portfolio\/penguinOnSaturn.jpg": {
 		"ft": 16384,
-		"iS": 4168,
+		"iS": 18803,
 		"oA": 0,
 		"oAP": "\/sites\/bubble\/assets\/images\/portfolio\/penguinOnSaturn.jpg",
 		"oF": 0,
@@ -1116,7 +1110,7 @@
 		},
 	"\/sites\/bubble\/assets\/images\/portfolio\/starsky.jpg": {
 		"ft": 16384,
-		"iS": 554729,
+		"iS": 35778,
 		"oA": 0,
 		"oAP": "\/sites\/bubble\/assets\/images\/portfolio\/starsky.jpg",
 		"oF": 0,
