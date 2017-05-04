@@ -1028,9 +1028,19 @@
 		"oT": 1,
 		"q": 100
 		},
+	"\/sites\/bubble\/assets\/images\/portfolio\/cdcover.jpg": {
+		"ft": 16384,
+		"iS": 10479,
+		"oA": 0,
+		"oAP": "\/sites\/bubble\/assets\/images\/portfolio\/cdcover.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/sites\/bubble\/assets\/images\/portfolio\/doubleex.jpg": {
 		"ft": 16384,
-		"iS": 45097,
+		"iS": 177270,
 		"oA": 0,
 		"oAP": "\/sites\/bubble\/assets\/images\/portfolio\/doubleex.jpg",
 		"oF": 0,
@@ -1043,6 +1053,16 @@
 		"iS": 25965,
 		"oA": 0,
 		"oAP": "\/sites\/bubble\/assets\/images\/portfolio\/epub.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/sites\/bubble\/assets\/images\/portfolio\/flow.jpg": {
+		"ft": 16384,
+		"iS": 16919,
+		"oA": 0,
+		"oAP": "\/sites\/bubble\/assets\/images\/portfolio\/flow.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -1100,7 +1120,7 @@
 		},
 	"\/sites\/bubble\/assets\/images\/portfolio\/spirit_triangle.jpg": {
 		"ft": 16384,
-		"iS": 30898,
+		"iS": 34334,
 		"oA": 0,
 		"oAP": "\/sites\/bubble\/assets\/images\/portfolio\/spirit_triangle.jpg",
 		"oF": 0,
@@ -1110,7 +1130,7 @@
 		},
 	"\/sites\/bubble\/assets\/images\/portfolio\/starsky.jpg": {
 		"ft": 16384,
-		"iS": 35778,
+		"iS": 26041,
 		"oA": 0,
 		"oAP": "\/sites\/bubble\/assets\/images\/portfolio\/starsky.jpg",
 		"oF": 0,

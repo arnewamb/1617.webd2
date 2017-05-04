@@ -214,14 +214,24 @@
 		"oT": 1,
 		"q": 100
 		},
+	"\/assets\/images\/portfolio\/cdcover.jpg": {
+		"ft": 16384,
+		"iS": 252774,
+		"oA": 0,
+		"oAP": "\/assets\/images\/portfolio\/cdcover.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
 	"\/assets\/images\/portfolio\/doubleex.jpg": {
 		"ft": 16384,
-		"iS": 1084840,
+		"iS": 177270,
 		"oA": 0,
 		"oAP": "\/assets\/images\/portfolio\/doubleex.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"\/assets\/images\/portfolio\/epub.jpg": {
@@ -229,6 +239,16 @@
 		"iS": 25965,
 		"oA": 0,
 		"oAP": "\/assets\/images\/portfolio\/epub.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/assets\/images\/portfolio\/flow.jpg": {
+		"ft": 16384,
+		"iS": 790857,
+		"oA": 0,
+		"oAP": "\/assets\/images\/portfolio\/flow.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
@@ -286,12 +306,12 @@
 		},
 	"\/assets\/images\/portfolio\/spirit_triangle.jpg": {
 		"ft": 16384,
-		"iS": 30898,
+		"iS": 34334,
 		"oA": 0,
 		"oAP": "\/assets\/images\/portfolio\/spirit_triangle.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"\/assets\/images\/portfolio\/starsky.jpg": {
@@ -301,7 +321,7 @@
 		"oAP": "\/assets\/images\/portfolio\/starsky.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/assets\/images\/portfolio\/waelkens_stage.jpg": {
@@ -675,16 +695,6 @@
 		"oA": 2,
 		"oAP": "\/diensten.html",
 		"oF": 0
-		},
-	"\/fire.jpg": {
-		"ft": 16384,
-		"iS": 3364821,
-		"oA": 0,
-		"oAP": "\/fire.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"q": 100
 		},
 	"\/fonts\/Material-Design-Iconic-Font.eot": {
 		"ft": 8192,
