@@ -823,6 +823,12 @@
 		"oAP": "\/sites\/.htaccess",
 		"oF": 0
 		},
+	"\/sites\/bubble\/.htaccess": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/sites\/bubble\/.htaccess",
+		"oF": 0
+		},
 	"\/sites\/bubble\/assets\/icons\/android-chrome-192x192.png": {
 		"ft": 32768,
 		"iS": 9668,
