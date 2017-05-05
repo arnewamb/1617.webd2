@@ -15,7 +15,7 @@
 				.work {
 					overflow: hidden;
 				}
-				@media (min-width: 0rem) {
+				@include bp(xxsm) {
 					.pic {
 						height: auto;
 						width: 100%;
@@ -24,7 +24,7 @@
 						padding-top: 20px;
 					}
 				}
-				@media (min-width: 60rem) {
+				@include bp(lg) {
 					.pic {
 						height: 100%;
 						width: auto;
@@ -48,9 +48,9 @@
 			}
 			
 
-			.details{
+			.detail{
 				img {
-						height: auto;
-						width: 100%;
+						height: 400px;
+						width: auto;
 					}
 				}

@@ -1,3 +1,4 @@
+@include bp(md){
 .index{
 	.navigation.white{
 		background-color: transparent;
@@ -16,4 +17,5 @@
 }
 .headroom {
 	transition: 0.5s;
+}
 }

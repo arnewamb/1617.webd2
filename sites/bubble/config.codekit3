@@ -690,6 +690,12 @@
 		"oAP": "\/detailpage.html",
 		"oF": 0
 		},
+	"\/detailpage_epub.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/detailpage_epub.html",
+		"oF": 0
+		},
 	"\/diensten.html": {
 		"ft": 8192,
 		"oA": 2,
@@ -741,6 +747,24 @@
 		"oA": 2,
 		"oAP": "\/jobs.html",
 		"oF": 0
+		},
+	"\/js\/hamburger-min.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/js\/hamburger-min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/js\/hamburger.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/js\/hamburger-min.js",
+		"oF": 1,
+		"sC": 0,
+		"tS": 0
 		},
 	"\/js\/headroom-min.js": {
 		"ft": 64,
