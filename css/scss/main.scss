@@ -1,18 +1,31 @@
 @charset "utf-8";
 
+@import 'abstracts/fonts';
+@import 'abstracts/variables';
+@import 'abstracts/functions';
+@import 'abstracts/mixins';
+@import 'abstracts/placeholders';
+
 @import 'vendors/icon1';
 @import 'vendors/icon2';
 
 @import 'base/normalize';
 @import 'base/typography';
 
+@import 'layout/headspace';
+@import 'layout/grid';
+@import 'layout/rowandgridchanges';
+@import 'layout/effects';
+@import 'layout/footer';
 @import 'layout/navigation';
-@import 'layout/forms';
+@import 'layout/pictures';
 
-@import 'componets/colors';
-@import 'componets/pictures';
-@import 'componets/buttons';
-@import 'componets/fonts';
+@import 'components/buttons';
+@import 'components/socialmedia';
 
-@import 'pages/404';
-@import 'pages/styleguide';
+@import 'pages/index';
+@import 'pages/contact';
+@import 'pages/diensten';
+@import 'pages/index';
+@import 'pages/jobs';
+@import 'pages/portfolio';
