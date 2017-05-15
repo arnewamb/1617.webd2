@@ -226,6 +226,16 @@
 		"oT": 1,
 		"q": 100
 		},
+	"\/assets\/images\/portfolio\/balaton_lake.jpg": {
+		"ft": 16384,
+		"iS": 95977,
+		"oA": 0,
+		"oAP": "\/assets\/images\/portfolio\/balaton_lake.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/assets\/images\/portfolio\/cdcover.jpg": {
 		"ft": 16384,
 		"iS": 252774,
@@ -264,6 +274,16 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
+		"q": 100
+		},
+	"\/assets\/images\/portfolio\/juwels.jpg": {
+		"ft": 16384,
+		"iS": 66514,
+		"oA": 0,
+		"oAP": "\/assets\/images\/portfolio\/juwels.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
 		"q": 100
 		},
 	"\/assets\/images\/portfolio\/kerst.jpg": {
