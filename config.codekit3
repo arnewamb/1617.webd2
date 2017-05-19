@@ -946,16 +946,82 @@
 		"oF": 0,
 		"oS": 0
 		},
-	"\/detailpage.html": {
+	"\/detailpages\/detailpage_balaton.html": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/detailpage.html",
+		"oAP": "\/detailpages\/detailpage_balaton.html",
 		"oF": 0
 		},
-	"\/detailpage_epub.html": {
+	"\/detailpages\/detailpage_cd.html": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/detailpage_epub.html",
+		"oAP": "\/detailpages\/detailpage_cd.html",
+		"oF": 0
+		},
+	"\/detailpages\/detailpage_epub.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/detailpages\/detailpage_epub.html",
+		"oF": 0
+		},
+	"\/detailpages\/detailpage_exposure.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/detailpages\/detailpage_exposure.html",
+		"oF": 0
+		},
+	"\/detailpages\/detailpage_feestdagen.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/detailpages\/detailpage_feestdagen.html",
+		"oF": 0
+		},
+	"\/detailpages\/detailpage_flow.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/detailpages\/detailpage_flow.html",
+		"oF": 0
+		},
+	"\/detailpages\/detailpage_jewel.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/detailpages\/detailpage_jewel.html",
+		"oF": 0
+		},
+	"\/detailpages\/detailpage_penguin.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/detailpages\/detailpage_penguin.html",
+		"oF": 0
+		},
+	"\/detailpages\/detailpage_pub.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/detailpages\/detailpage_pub.html",
+		"oF": 0
+		},
+	"\/detailpages\/detailpage_shimy_girl.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/detailpages\/detailpage_shimy_girl.html",
+		"oF": 0
+		},
+	"\/detailpages\/detailpage_spirit.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/detailpages\/detailpage_spirit.html",
+		"oF": 0
+		},
+	"\/detailpages\/detailpage_starsky.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/detailpages\/detailpage_starsky.html",
+		"oF": 0
+		},
+	"\/detailpages\/detailpage_waelkens.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/detailpages\/detailpage_waelkens.html",
 		"oF": 0
 		},
 	"\/diensten.html": {
