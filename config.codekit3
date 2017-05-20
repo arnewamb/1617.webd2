@@ -1076,15 +1076,6 @@
 		"oAP": "\/jobs.html",
 		"oF": 0
 		},
-	"\/js\/google_analytic.js": {
-		"ft": 64,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/js\/google_analytic-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
 	"\/js\/hamburger-min.js": {
 		"ft": 64,
 		"mi": 1,
