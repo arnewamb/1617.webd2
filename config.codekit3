@@ -387,12 +387,6 @@
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"\/contact.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/contact.html",
-		"oF": 0
-		},
 	"\/css\/main.css": {
 		"aP": 1,
 		"bl": 1,
@@ -726,26 +720,6 @@
 		"oF": 0,
 		"oS": 0
 		},
-	"\/css_styleguide\/projectpage-min.css": {
-		"aP": 1,
-		"bl": 1,
-		"ft": 16,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "\/css_styleguide\/projectpage-min-min.css",
-		"oF": 0,
-		"oS": 0
-		},
-	"\/css_styleguide\/projectpage.css": {
-		"aP": 1,
-		"bl": 1,
-		"ft": 16,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "\/css_styleguide\/projectpage-min.css",
-		"oF": 0,
-		"oS": 0
-		},
 	"\/css_styleguide\/scss\/base\/_normalize.css": {
 		"aP": 1,
 		"bl": 1,
@@ -1024,12 +998,6 @@
 		"oAP": "\/detailpages\/detailpage_waelkens.html",
 		"oF": 0
 		},
-	"\/diensten.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/diensten.html",
-		"oF": 0
-		},
 	"\/fonts\/Material-Design-Iconic-Font.eot": {
 		"ft": 8192,
 		"oA": 2,
@@ -1062,18 +1030,6 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/fonts\/Material-Design-Iconic-Font.woff2",
-		"oF": 0
-		},
-	"\/index.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/index.html",
-		"oF": 0
-		},
-	"\/jobs.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/jobs.html",
 		"oF": 0
 		},
 	"\/js\/hamburger-min.js": {
@@ -1188,12 +1144,6 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/LICENSE",
-		"oF": 0
-		},
-	"\/portfolio.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/portfolio.html",
 		"oF": 0
 		},
 	"\/README.html": {
