@@ -4,7 +4,7 @@ $(function () {
 var headroom  = new Headroom(myElement);
 // initialise
 headroom.init(); 
-console.log("innit");
+// console.log("innit");
 });
 /* SHOW ELEMENT AFTER PAGE IS SCROLLED 100px */
 var win = window,
