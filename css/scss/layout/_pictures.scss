@@ -37,12 +37,19 @@
 					}
 				}
 
-				@include bp(1760px) {
+
+				@include bp(1760px){
 					.pic {
 						width: 100%;
 						height: auto;
 					}
 				}
+				// @media (max-width: 1760px) {
+				// 	.pic {
+				// 		width: 100% !important;
+				// 		height: auto;
+				// 	}
+				// }
 				/*defines the length of the picture*/
 				.piclow {
 					width: 100%;
